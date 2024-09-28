@@ -16,9 +16,9 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.1",
-        "pestphp/pest": "^2.0.0",
-        "pestphp/pest-plugin": "^2.0.0",
+        "php": "^8.2",
+        "pestphp/pest": "^3.2.0",
+        "pestphp/pest-plugin": "^3.0.0",
         "minicli/curly": "^0.2.2"
     },
     "autoload": {

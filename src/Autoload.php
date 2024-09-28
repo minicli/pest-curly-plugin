@@ -11,5 +11,5 @@ Plugin::uses(Curly::class);
 
 function curly(): Client
 {
-    return new Client();
+    return new Client;
 }

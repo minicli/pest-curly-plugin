@@ -47,6 +47,6 @@ trait Curly
 
     protected function getCurly(): Client
     {
-        return new Client();
+        return new Client;
     }
 }
